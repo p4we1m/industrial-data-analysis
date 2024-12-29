@@ -16,7 +16,7 @@ Ten projekt jest prototypowym systemem monitorowania i analizy danych przemysło
 
 ## 🛠️ Technologie  
 - 🐍 **Python**: główny język programowania.  
-- 📦 **Biblioteki ML**: scikit-learn, TensorFlow/PyTorch (do wyboru w zależności od potrzeby).  
+- 📦 **Biblioteki ML**: scikit-learn, TensorFlow/PyTorch.  
 - 🎨 **Narzędzia wizualizacyjne**: Matplotlib, Plotly, lub Dash.  
 - 📊 **Inne**: NumPy, pandas do przetwarzania danych.  
 
